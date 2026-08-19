@@ -1,0 +1,16 @@
+export const destinations = [
+  'Bhandara',
+  'Nagpur',
+  'Sironcha',
+  'Gadchiroli',
+  'Warud',
+  'Amravati',
+  'Chikhaldara',
+  'Achalpur',
+  'Melghat',
+  'Paratwada',
+  'Karanja',
+  'Washim',
+  'Yavatmal',
+  'Chandrapur',
+]
