@@ -1,6 +1,0 @@
-{
-  "functions": {
-    "source": "Backend/chetak/Grate Chetak/service/Backend",
-    "runtime": "nodejs20"
-  }
-}
